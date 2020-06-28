@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-my_first_website/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-my_first_website/'**
 ***
 title: **'Code Institiute - My First Website'**
 
